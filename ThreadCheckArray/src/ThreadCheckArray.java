@@ -5,8 +5,7 @@ public class ThreadCheckArray implements Runnable
 	SharedData sd;
 	int[] array;
 	int b;
-	dddddddddddddd
-	ffd
+	ddddd
 	public ThreadCheckArray(SharedData sd) 
 	{
 		this.sd = sd;	
